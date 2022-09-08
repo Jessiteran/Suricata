@@ -1,0 +1,70 @@
+* {
+    overflow-x: hidden;
+}
+.pink {
+    background-color: #e83e8c;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.navbar-toggler{
+    border-color: #fff;
+    
+}
+.blue {
+    background-color: #17a2b8;
+    color: #fff;
+    display: grid;
+    grid-template-columns: 37% 63%;
+}
+
+.row{
+    size: 2em;
+}
+
+.white { 
+    color: #fff;
+}
+.suricata
+{
+    width: 7em;
+}
+.gris { 
+    color: #707070;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+}
+.nav-link {
+    color: #fff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.suricata2 {
+    width: 3em;
+}
+.tarjetas{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    text-align: left;
+    width: 100%;
+}
+
+.mc{
+    font-size: 1.5em;
+}
+.vs{
+    font-size: 1.5em;
+}
+.amx{
+    font-size: 1.5em;
+}
+.dc{
+    font-size: 1.5em;
+}
+.pp{
+    font-size: 1.5em;
+}
+.dv{
+    font-size: 1.5em;
+}
